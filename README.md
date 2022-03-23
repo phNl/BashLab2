@@ -1,4 +1,4 @@
 # BashLab2
 
 ### Консоль:
-![Screenshot_2](https://user-images.githubusercontent.com/86802257/159726731-62a059f1-444e-4a70-923b-af5277b93700.png)
+![изображение](https://user-images.githubusercontent.com/86802257/159727646-b036b720-18d2-43d9-8983-dc7c56fc4a17.png)
